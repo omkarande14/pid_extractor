@@ -1,0 +1,18 @@
+﻿# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Secrets & Environment variables (STRICTLY GITIGNORED)
+.env
+*.env.local
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Output and temporary artifacts
+*.xlsx
+*.log
